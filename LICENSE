@@ -1,0 +1,11 @@
+Data files (cities.csv, cities.json): Creative Commons Attribution 4.0 International
+(CC BY 4.0), https://creativecommons.org/licenses/by/4.0/legalcode
+Derived from GeoNames (https://www.geonames.org), also CC BY 4.0.
+Required attribution: "City data (c) GeoNames (geonames.org), CC BY 4.0. Compiled by SavvyToolz (https://savvytoolz.com)."
+
+Code (scripts/export.mjs): MIT License. Copyright (c) SavvyToolz.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this
+software and associated files, to deal in the software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies, subject to the above copyright notice being included.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
